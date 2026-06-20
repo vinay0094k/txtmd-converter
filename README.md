@@ -230,8 +230,3 @@ docker run -p 8501:8501 txtmd-converter
 
 (Requires `Dockerfile` — not included.)
 
----
-
-## License
-
-MIT
